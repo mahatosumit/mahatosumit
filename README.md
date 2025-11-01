@@ -1,9 +1,13 @@
-[![MasterHead](https://i.pinimg.com/736x/62/60/8c/62608c4e994b347b6c8326fc943bfef1.jpg)](https://mahatosumit.io)
+<p align="center">
+  <img src="https://i.pinimg.com/736x/62/60/8c/62608c4e994b347b6c8326fc943bfef1.jpg" alt="TravaX Robotics Banner" width="900">
+</p>
 
 <h1 align="center">Hi 👋, I'm SUMIT MAHATO</h1>
 <h3 align="center">Mechatronics Engineering Student | AI & Robotics Enthusiast | ADAS Researcher</h3>
 
-<img align="center" alt="Robotics" width="400" src="https://cdn.dribbble.com/userupload/13859890/file/original-10cb1e03de2cb7272f4ec9a50459d7b3.gif">
+<p align="center">
+  <img align="center" alt="Robotics" width="400" src="https://cdn.dribbble.com/userupload/13859890/file/original-10cb1e03de2cb7272f4ec9a50459d7b3.gif">
+</p>
 
 ---
 
@@ -11,8 +15,8 @@
 - 🎓 Pursuing **B.Tech in Mechatronics Engineering**  
 - 🔭 Currently working on **Advanced Driver Assistance Systems (ADAS)** – lane, pedestrian, and traffic sign detection using YOLOv7  
 - 🤖 Passionate about **Autonomous Systems, Computer Vision, and AI-driven Robotics**  
-- ⚙️ Exploring **embedded AI**, **sensor fusion**, and **real-time decision systems** for intelligent mobility  
-- 🧩 Bridging **mechanical design + electronics + software** to build adaptive robotic systems  
+- ⚙️ Exploring **Embedded AI**, **Sensor Fusion**, and **Real-time Decision Systems** for intelligent mobility  
+- 🧩 Bridging **Mechanical Design + Electronics + Software** to build adaptive robotic systems  
 - 💬 Ask me about **Python, OpenCV, PyTorch, Embedded Systems, and Control Systems**  
 - 🌐 Portfolio: [www.mahatosumit.com.np](https://www.mahatosumit.com.np)  
 - 📁 Explore my [GitHub Projects](https://github.com/mahatosumit?tab=repositories)  
@@ -20,7 +24,7 @@
 
 ---
 
-### 🧠 Current Focus Areas
+### 🧠 Current Focus Areas  
 - 🚘 **TravaX ADAS** – lane & pedestrian detection, parking assist, and safety alert systems  
 - 🤖 **AI for Robotics** – real-time object detection, path tracking, and motion planning  
 - ⚙️ **Mechatronics Integration** – Arduino, ESP32, STM32, and Pixhawk for automation  
@@ -29,8 +33,8 @@
 
 ---
 
-### 🧰 Languages and Tools
-<p align="left"> 
+### 🧰 Languages and Tools  
+<p align="center"> 
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
@@ -52,8 +56,8 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
+### 🌐 Connect With Me  
+<p align="center">
 <a href="https://twitter.com/sum_it_mahato" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
 <a href="https://kaggle.com/npsumitmahato0913" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/mahatosumit/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
@@ -62,7 +66,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatosumit&show_icons=true&locale=en&layout=compact" alt="mahatosumit"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatosumit&show_icons=true&locale=en&layout=compact" alt="mahatosumit"/>
 </p>
 
 ---
