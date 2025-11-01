@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg" alt="TravaX Robotics Banner" width="900">
+  <img src="https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg" alt="TravaX Robotics Banner" width="800" height="500">
 </p>
 
 <h1 align="center">Hi 👋, I'm SUMIT MAHATO</h1>
