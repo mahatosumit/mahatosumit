@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm SUMIT MAHATO</h1>
-<h3 align="center">Mechatronics Engineering Student | AI & Robotics Enthusiast | ADAS Researcher</h3>
+<h3 align="center">AI & Robotics Enthusiast | ADAS Researcher</h3>
 
 <p align="center">
   <img align="center" alt="Robotics" width="400" src="https://cdn.dribbble.com/userupload/13859890/file/original-10cb1e03de2cb7272f4ec9a50459d7b3.gif">
@@ -25,9 +25,9 @@
 ---
 
 ### 🧠 Current Focus Areas  
-- 🚘 **TravaX ADAS** – lane & pedestrian detection, parking assist, and safety alert systems  
+- 🚘 **ADAS** – Driver Monitoring System, lane & pedestrian detection, parking assist, and safety alert systems  
 - 🤖 **AI for Robotics** – real-time object detection, path tracking, and motion planning  
-- ⚙️ **Mechatronics Integration** – Arduino, ESP32, STM32, and Pixhawk for automation  
+- ⚙️ **Mechatronics Integration** – Raspberry Pi, Arduino, ESP32, STM32, and Pixhawk for automation 
 - ☁️ **Cloud-Connected Systems** – sensor dashboards via Grafana & Node-RED  
 - 🧮 **Deep Learning Research** – CNN & CRNN models for computer vision and signal analysis  
 
