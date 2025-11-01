@@ -1,32 +1,31 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://mahatosumit.io)
+[![MasterHead](https://cdn.dribbble.com/userupload/11419977/file/original-52d7325f8d403c63b937b3c78b84f69d.gif)](https://mahatosumit.io)
 
 <h1 align="center">Hi 👋, I'm SUMIT MAHATO</h1>
 <h3 align="center">Mechatronics Engineering Student | AI & Robotics Enthusiast | ADAS Researcher</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8d4d6e7a0cdcc06ee0b8b1e.gif">
+<img align="right" alt="Robotics" width="400" src="https://cdn.dribbble.com/userupload/13859890/file/original-10cb1e03de2cb7272f4ec9a50459d7b3.gif">
 
 ---
 
 ### 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Mechatronics Engineering**  
-- 🔭 Currently working on **Advanced Driver Assistance Systems (ADAS)** — lane, pedestrian, and traffic sign detection  
-- 🤖 Interested in **Autonomous Systems, Computer Vision, and Intelligent Robotics**  
-- 💡 Exploring integration of **AI, IoT, and embedded systems** to create smarter machines  
-- 🧠 Passionate about solving **real-world engineering problems** through automation and deep learning  
-- 💬 Ask me about **Python, OpenCV, PyTorch, React, Node.js, and Sensor Integration**  
-- 📫 Reach me at **mahatosumit0913@gmail.com**  
-- 🌐 Portfolio: [www.mahatosumit.com.np](https://www.sumitmahato.com.np)  
-- 📁 All my projects: [GitHub Repositories](https://github.com/mahatosumit?tab=repositories)  
-- 📝 Regular updates on [LinkedIn](https://www.linkedin.com/in/mahatosumit/)
+- 🔭 Currently working on **Advanced Driver Assistance Systems (ADAS)** – lane, pedestrian, and traffic sign detection using YOLOv7  
+- 🤖 Passionate about **Autonomous Systems, Computer Vision, and AI-driven Robotics**  
+- ⚙️ Exploring **embedded AI**, **sensor fusion**, and **real-time decision systems** for intelligent vehicles  
+- 🧩 Focused on bridging **mechanical design + electronics + software** for automation and robotics  
+- 💬 Ask me about **Python, OpenCV, PyTorch, Embedded Systems, and Control Systems**
+- 🌐 Portfolio: [www.mahatosumit.com.np](https://www.mahatosumit.com.np)  
+- 📁 Projects: [GitHub Repositories](https://github.com/mahatosumit?tab=repositories)  
+- 📝 Connect on [LinkedIn](https://www.linkedin.com/in/mahatosumit/)
 
 ---
 
 ### 🧠 Current Focus Areas
-- 🚘 **ADAS** – lane & pedestrian detection, parking assistance using YOLOv7  
-- 🧩 **AI for Robotics** – object detection, motion control, and environment understanding  
-- ⚙️ **Embedded Systems & Mechatronics** – integration of ESP32, Arduino, and Pixhawk for automation  
-- ☁️ **Real-time Visualization** – sensor data integration using Grafana and Node-RED  
-- 🧮 **Deep Learning** – CNN-based perception models and computer vision pipelines  
+- 🚘 **TravaX ADAS** – lane & pedestrian detection, parking assist, and safety alert systems  
+- 🧩 **AI for Robotics** – real-time object detection, path tracking, and motion planning  
+- ⚙️ **Mechatronics Integration** – using Arduino, ESP32, STM32, and Pixhawk for automation  
+- ☁️ **Cloud-Connected Systems** – sensor data dashboards via Grafana & Node-RED  
+- 🧮 **Deep Learning** – CNN & CRNN architectures for computer vision and signal analysis  
 
 ---
 
@@ -68,4 +67,4 @@
 
 ---
 
-<h3 align="center">"Bridging Mechatronics and Artificial Intelligence to design the future of autonomous systems."</h3>
+<h3 align="center">"Combining Mechatronics and Artificial Intelligence to shape the future of intelligent mobility and robotics."</h3>
