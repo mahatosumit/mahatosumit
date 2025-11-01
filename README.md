@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/11419977/file/original-52d7325f8d403c63b937b3c78b84f69d.gif)](https://mahatosumit.io)
+[![MasterHead](https://i.imgur.com/EkFX5qB.png)](https://mahatosumit.io)
 
 <h1 align="center">Hi 👋, I'm SUMIT MAHATO</h1>
 <h3 align="center">Mechatronics Engineering Student | AI & Robotics Enthusiast | ADAS Researcher</h3>
@@ -12,20 +12,20 @@
 - 🔭 Currently working on **Advanced Driver Assistance Systems (ADAS)** – lane, pedestrian, and traffic sign detection using YOLOv7  
 - 🤖 Passionate about **Autonomous Systems, Computer Vision, and AI-driven Robotics**  
 - ⚙️ Exploring **embedded AI**, **sensor fusion**, and **real-time decision systems** for intelligent vehicles  
-- 🧩 Focused on bridging **mechanical design + electronics + software** for automation and robotics  
-- 💬 Ask me about **Python, OpenCV, PyTorch, Embedded Systems, and Control Systems**
+- 🧩 Bridging **mechanical design + electronics + software** to build advanced automation systems  
+- 💬 Ask me about **Python, OpenCV, PyTorch, Embedded Systems, and Control Systems**  
 - 🌐 Portfolio: [www.mahatosumit.com.np](https://www.mahatosumit.com.np)  
-- 📁 Projects: [GitHub Repositories](https://github.com/mahatosumit?tab=repositories)  
-- 📝 Connect on [LinkedIn](https://www.linkedin.com/in/mahatosumit/)
+- 📁 Explore my [GitHub Projects](https://github.com/mahatosumit?tab=repositories)  
+- 🧠 Connect on [LinkedIn](https://www.linkedin.com/in/mahatosumit/)
 
 ---
 
 ### 🧠 Current Focus Areas
 - 🚘 **TravaX ADAS** – lane & pedestrian detection, parking assist, and safety alert systems  
 - 🧩 **AI for Robotics** – real-time object detection, path tracking, and motion planning  
-- ⚙️ **Mechatronics Integration** – using Arduino, ESP32, STM32, and Pixhawk for automation  
-- ☁️ **Cloud-Connected Systems** – sensor data dashboards via Grafana & Node-RED  
-- 🧮 **Deep Learning** – CNN & CRNN architectures for computer vision and signal analysis  
+- ⚙️ **Mechatronics Integration** – Arduino, ESP32, STM32, and Pixhawk for autonomous control  
+- ☁️ **Cloud-Connected Systems** – sensor dashboards via Grafana & Node-RED  
+- 🧮 **Deep Learning Research** – CNN & CRNN models for computer vision and time-series data  
 
 ---
 
@@ -67,4 +67,4 @@
 
 ---
 
-<h3 align="center">"Combining Mechatronics and Artificial Intelligence to shape the future of intelligent mobility and robotics."</h3>
+<h3 align="center">"Building Intelligent Systems that Think, Sense, and Move — The Future of Mechatronics & AI."</h3>
