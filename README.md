@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/EkFX5qB.png)](https://mahatosumit.io)
+[![MasterHead](https://i.pinimg.com/736x/62/60/8c/62608c4e994b347b6c8326fc943bfef1.jpg)](https://mahatosumit.io)
 
 <h1 align="center">Hi 👋, I'm SUMIT MAHATO</h1>
 <h3 align="center">Mechatronics Engineering Student | AI & Robotics Enthusiast | ADAS Researcher</h3>
@@ -11,8 +11,8 @@
 - 🎓 Pursuing **B.Tech in Mechatronics Engineering**  
 - 🔭 Currently working on **Advanced Driver Assistance Systems (ADAS)** – lane, pedestrian, and traffic sign detection using YOLOv7  
 - 🤖 Passionate about **Autonomous Systems, Computer Vision, and AI-driven Robotics**  
-- ⚙️ Exploring **embedded AI**, **sensor fusion**, and **real-time decision systems** for intelligent vehicles  
-- 🧩 Bridging **mechanical design + electronics + software** to build advanced automation systems  
+- ⚙️ Exploring **embedded AI**, **sensor fusion**, and **real-time decision systems** for intelligent mobility  
+- 🧩 Bridging **mechanical design + electronics + software** to build adaptive robotic systems  
 - 💬 Ask me about **Python, OpenCV, PyTorch, Embedded Systems, and Control Systems**  
 - 🌐 Portfolio: [www.mahatosumit.com.np](https://www.mahatosumit.com.np)  
 - 📁 Explore my [GitHub Projects](https://github.com/mahatosumit?tab=repositories)  
@@ -22,10 +22,10 @@
 
 ### 🧠 Current Focus Areas
 - 🚘 **TravaX ADAS** – lane & pedestrian detection, parking assist, and safety alert systems  
-- 🧩 **AI for Robotics** – real-time object detection, path tracking, and motion planning  
-- ⚙️ **Mechatronics Integration** – Arduino, ESP32, STM32, and Pixhawk for autonomous control  
+- 🤖 **AI for Robotics** – real-time object detection, path tracking, and motion planning  
+- ⚙️ **Mechatronics Integration** – Arduino, ESP32, STM32, and Pixhawk for automation  
 - ☁️ **Cloud-Connected Systems** – sensor dashboards via Grafana & Node-RED  
-- 🧮 **Deep Learning Research** – CNN & CRNN models for computer vision and time-series data  
+- 🧮 **Deep Learning Research** – CNN & CRNN models for computer vision and signal analysis  
 
 ---
 
