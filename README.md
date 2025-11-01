@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm SUMIT MAHATO</h1>
-<h3 align="center">AI & Robotics Enthusiast | ADAS Researcher</h3>
+<h3 align="center">Autonomous System | Robotics | AI</h3>
 
 <p align="center">
   <img align="center" alt="Robotics" width="400" src="https://cdn.dribbble.com/userupload/13859890/file/original-10cb1e03de2cb7272f4ec9a50459d7b3.gif">
