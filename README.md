@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Pursuing **B.Tech in Mechatronics Engineering**  
+- 🎓 Pursuing **B.E. in Mechatronics Engineering**  
 - 🔭 Currently working on **Advanced Driver Assistance Systems (ADAS)** – lane, pedestrian, and traffic sign detection using YOLOv7  
 - 🤖 Passionate about **Autonomous Systems, Computer Vision, and AI-driven Robotics**  
 - ⚙️ Exploring **Embedded AI**, **Sensor Fusion**, and **Real-time Decision Systems** for intelligent mobility  
