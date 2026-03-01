@@ -1,74 +1,126 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg" alt="TravaX Robotics Banner" width="900" height="450">
+  <img src="./hero.png" alt="Autonomous Systems Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm SUMIT MAHATO</h1>
-<h3 align="center">Autonomous System | Robotics | AI</h3>
+<h1 align="center">Sumit Mahato</h1>
+<h3 align="center">Autonomous Systems Engineer • Robotics • Embedded AI • Intelligent Mobility</h3>
+
+---
+
+## ⚙️ Engineering Profile
+
+Engineer focused on building **autonomous and intelligent machines** by integrating perception, embedded computing, and real-time control systems.
+
+My work combines **AI, robotics, and mechatronics engineering** to design systems capable of sensing, reasoning, and acting in physical environments.
+
+* Autonomous Robotics & Intelligent Mobility
+* Computer Vision & Edge AI Deployment
+* Embedded Systems Architecture
+* Real-Time Decision Systems
+* Hardware–Software Co-Design
+
+🌐 Portfolio — https://www.mahatosumit.com.np
+📁 GitHub — https://github.com/mahatosumit
+🔗 LinkedIn — https://www.linkedin.com/in/mahatosumit/
+
+---
+
+## 🚘 Current Engineering Work
+
+### **TravaX — Autonomous Driving & ADAS Platform**
+
+Designing a modular perception and safety system for intelligent vehicles.
+
+* Lane detection using deep learning pipelines
+* Pedestrian & object detection (YOLO)
+* Traffic sign recognition
+* Parking assist & safety alerts
+* Edge deployment on Raspberry Pi
+* Real-time vision optimization
+
+---
+
+### **Robotics & Autonomous Platforms**
+
+* Autonomous rover and robotic system development
+* Vision + IMU based localization
+* Navigation behavior design
+* Embedded perception pipelines
+* Real-world robotics integration
+
+---
+
+### **Embedded Intelligence**
+
+* Raspberry Pi 5 • STM32 • ESP32 • Arduino • Pixhawk
+* Sensor fusion & communication pipelines
+* Control system implementation
+* Edge AI optimization
+
+---
+
+### **Connected Intelligent Systems**
+
+* Grafana + Node-RED monitoring systems
+* Cloud-connected sensor dashboards
+* Robotics telemetry & observability
+
+---
+
+## 🧠 Technical Domains
+
+Autonomous Systems • Computer Vision • Robotics AI
+Embedded AI • Control Systems • Intelligent Mobility
+Sensor Fusion • Edge Computing
+
+---
+
+## 🧰 Technology Stack
 
 <p align="center">
-  <img align="center" alt="Robotics" width="400" src="https://cdn.dribbble.com/userupload/13859890/file/original-10cb1e03de2cb7272f4ec9a50459d7b3.gif">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="45"/>
+
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🎓 Pursuing **B.E. in Mechatronics Engineering**  
-- 🔭 Currently working on **Advanced Driver Assistance Systems (ADAS)** – lane, pedestrian, and traffic sign detection using YOLOv7  
-- 🤖 Passionate about **Autonomous Systems, Computer Vision, and AI-driven Robotics**  
-- ⚙️ Exploring **Embedded AI**, **Sensor Fusion**, and **Real-time Decision Systems** for intelligent mobility  
-- 🧩 Bridging **Mechanical Design + Electronics + Software** to build adaptive robotic systems  
-- 💬 Ask me about **Python, OpenCV, PyTorch, Embedded Systems, and Control Systems**  
-- 🌐 Portfolio: [www.mahatosumit.com.np](https://www.mahatosumit.com.np)  
-- 📁 Explore my [GitHub Projects](https://github.com/mahatosumit?tab=repositories)  
-- 🧠 Connect on [LinkedIn](https://www.linkedin.com/in/mahatosumit/)
+## 🌐 Connect With Me
 
----
-
-### 🧠 Current Focus Areas  
-- 🚘 **ADAS** – Driver Monitoring System, lane & pedestrian detection, parking assist, and safety alert systems  
-- 🤖 **AI for Robotics** – real-time object detection, path tracking, and motion planning  
-- ⚙️ **Mechatronics Integration** – Raspberry Pi, Arduino, ESP32, STM32, and Pixhawk for automation 
-- ☁️ **Cloud-Connected Systems** – sensor dashboards via Grafana & Node-RED  
-- 🧮 **Deep Learning Research** – CNN & CRNN models for computer vision and signal analysis  
-
----
-
-### 🧰 Languages and Tools  
-<p align="center"> 
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-<a href="https://www.raspberrypi.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" width="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://grafana.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" width="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-</p>
-
----
-
-### 🌐 Connect With Me  
 <p align="center">
-<a href="https://twitter.com/sum_it_mahato" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
-<a href="https://kaggle.com/npsumitmahato0913" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/mahatosumit/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+
+<a href="https://twitter.com/sum_it_mahato">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35"/>
+</a>
+
+<a href="https://kaggle.com/npsumitmahato0913">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="35"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahatosumit/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatosumit&show_icons=true&locale=en&layout=compact" alt="mahatosumit"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatosumit&show_icons=true&layout=compact"/>
 </p>
 
 ---
 
-<h3 align="center">"Building Intelligent Systems that Think, Sense, and Move — The Future of Mechatronics & AI."</h3>
+<h3 align="center">
+Engineering machines that perceive, decide, and act autonomously.
+</h3>
