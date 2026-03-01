@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">Sumit Mahato</h1>
-<h3 align="center">Autonomous Systems Engineer • Robotics • Embedded AI • Intelligent Mobility</h3>
-
+<h3 align="center">
+System Architect | Autonomous Systems (ADAS) | Robotics & AI
+</h3>
 ---
 
 ## ⚙️ Engineering Profile
@@ -29,7 +30,7 @@ My work combines **AI, robotics, and mechatronics engineering** to design system
 
 ## 🚘 Current Engineering Work
 
-### **TravaX — Autonomous Driving & ADAS Platform**
+### **BFMC — Autonomous Driving & ADAS Platform**
 
 Designing a modular perception and safety system for intelligent vehicles.
 
