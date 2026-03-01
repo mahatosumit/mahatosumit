@@ -20,7 +20,9 @@ My work combines **AI, robotics, and mechatronics engineering** to design system
 * Hardware–Software Co-Design
 
 🌐 Portfolio — https://www.mahatosumit.com.np
+
 📁 GitHub — https://github.com/mahatosumit
+
 🔗 LinkedIn — https://www.linkedin.com/in/mahatosumit/
 
 ---
