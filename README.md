@@ -19,7 +19,7 @@ My work combines **AI, robotics, and mechatronics engineering** to design system
 * Real-Time Decision Systems
 * Hardware–Software Co-Design
 
-🌐 Portfolio — https://www.mahatosumit.com.np
+🌐 Portfolio — https://www.sumitmahato.com.np
 
 📁 GitHub — https://github.com/mahatosumit
 
