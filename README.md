@@ -4,9 +4,8 @@
 
 <h1 align="center">Sumit Mahato</h1>
 <h3 align="center">
-System Architect | Autonomous Systems (ADAS) | Robotics & AI
+System Architect | Autonomous Systems | Robotics & AI
 </h3>
----
 
 ## ⚙️ Engineering Profile
 
