@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.png" alt="Autonomous Systems Banner" width="100%">
+  <img src="./Cover image github.png" alt="Autonomous Systems Banner" width="100%">
 </p>
 
 <h1 align="center">Sumit Mahato</h1>
